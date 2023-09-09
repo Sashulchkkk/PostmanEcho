@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.rest.postmanEcho1" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-09T18:59:02" hostname="MSI" time="2.299">
+  <properties/>
+  <testcase name="shouldReturnABody()" classname="ru.netology.rest.postmanEcho1" time="2.299"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
